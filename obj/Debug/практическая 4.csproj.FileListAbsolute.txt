@@ -1,0 +1,7 @@
+C:\Users\artik\Desktop\практическая 4\bin\Debug\практическая 4.exe.config
+C:\Users\artik\Desktop\практическая 4\bin\Debug\практическая 4.exe
+C:\Users\artik\Desktop\практическая 4\bin\Debug\практическая 4.pdb
+C:\Users\artik\Desktop\практическая 4\obj\Debug\практическая 4.csproj.AssemblyReference.cache
+C:\Users\artik\Desktop\практическая 4\obj\Debug\практическая 4.csproj.CoreCompileInputs.cache
+C:\Users\artik\Desktop\практическая 4\obj\Debug\практическая 4.exe
+C:\Users\artik\Desktop\практическая 4\obj\Debug\практическая 4.pdb
